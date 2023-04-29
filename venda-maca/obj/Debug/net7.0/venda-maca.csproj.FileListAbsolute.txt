@@ -1,0 +1,15 @@
+C:\Users\willd\OneDrive\Área de Trabalho\venda-maca\bin\Debug\net7.0\venda-maca.exe
+C:\Users\willd\OneDrive\Área de Trabalho\venda-maca\bin\Debug\net7.0\venda-maca.deps.json
+C:\Users\willd\OneDrive\Área de Trabalho\venda-maca\bin\Debug\net7.0\venda-maca.runtimeconfig.json
+C:\Users\willd\OneDrive\Área de Trabalho\venda-maca\bin\Debug\net7.0\venda-maca.dll
+C:\Users\willd\OneDrive\Área de Trabalho\venda-maca\bin\Debug\net7.0\venda-maca.pdb
+C:\Users\willd\OneDrive\Área de Trabalho\venda-maca\obj\Debug\net7.0\venda-maca.csproj.AssemblyReference.cache
+C:\Users\willd\OneDrive\Área de Trabalho\venda-maca\obj\Debug\net7.0\venda-maca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willd\OneDrive\Área de Trabalho\venda-maca\obj\Debug\net7.0\venda-maca.AssemblyInfoInputs.cache
+C:\Users\willd\OneDrive\Área de Trabalho\venda-maca\obj\Debug\net7.0\venda-maca.AssemblyInfo.cs
+C:\Users\willd\OneDrive\Área de Trabalho\venda-maca\obj\Debug\net7.0\venda-maca.csproj.CoreCompileInputs.cache
+C:\Users\willd\OneDrive\Área de Trabalho\venda-maca\obj\Debug\net7.0\venda-maca.dll
+C:\Users\willd\OneDrive\Área de Trabalho\venda-maca\obj\Debug\net7.0\refint\venda-maca.dll
+C:\Users\willd\OneDrive\Área de Trabalho\venda-maca\obj\Debug\net7.0\venda-maca.pdb
+C:\Users\willd\OneDrive\Área de Trabalho\venda-maca\obj\Debug\net7.0\venda-maca.genruntimeconfig.cache
+C:\Users\willd\OneDrive\Área de Trabalho\venda-maca\obj\Debug\net7.0\ref\venda-maca.dll

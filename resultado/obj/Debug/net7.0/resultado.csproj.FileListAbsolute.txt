@@ -1,0 +1,15 @@
+C:\Users\willd\OneDrive\Área de Trabalho\resultado\obj\Debug\net7.0\resultado.csproj.AssemblyReference.cache
+C:\Users\willd\OneDrive\Área de Trabalho\resultado\obj\Debug\net7.0\resultado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willd\OneDrive\Área de Trabalho\resultado\obj\Debug\net7.0\resultado.AssemblyInfoInputs.cache
+C:\Users\willd\OneDrive\Área de Trabalho\resultado\obj\Debug\net7.0\resultado.AssemblyInfo.cs
+C:\Users\willd\OneDrive\Área de Trabalho\resultado\obj\Debug\net7.0\resultado.csproj.CoreCompileInputs.cache
+C:\Users\willd\OneDrive\Área de Trabalho\resultado\bin\Debug\net7.0\resultado.exe
+C:\Users\willd\OneDrive\Área de Trabalho\resultado\bin\Debug\net7.0\resultado.deps.json
+C:\Users\willd\OneDrive\Área de Trabalho\resultado\bin\Debug\net7.0\resultado.runtimeconfig.json
+C:\Users\willd\OneDrive\Área de Trabalho\resultado\bin\Debug\net7.0\resultado.dll
+C:\Users\willd\OneDrive\Área de Trabalho\resultado\bin\Debug\net7.0\resultado.pdb
+C:\Users\willd\OneDrive\Área de Trabalho\resultado\obj\Debug\net7.0\resultado.dll
+C:\Users\willd\OneDrive\Área de Trabalho\resultado\obj\Debug\net7.0\refint\resultado.dll
+C:\Users\willd\OneDrive\Área de Trabalho\resultado\obj\Debug\net7.0\resultado.pdb
+C:\Users\willd\OneDrive\Área de Trabalho\resultado\obj\Debug\net7.0\resultado.genruntimeconfig.cache
+C:\Users\willd\OneDrive\Área de Trabalho\resultado\obj\Debug\net7.0\ref\resultado.dll

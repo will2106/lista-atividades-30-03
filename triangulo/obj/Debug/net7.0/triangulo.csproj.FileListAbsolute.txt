@@ -1,0 +1,15 @@
+C:\Users\willd\OneDrive\Área de Trabalho\triangulo\bin\Debug\net7.0\triangulo.exe
+C:\Users\willd\OneDrive\Área de Trabalho\triangulo\bin\Debug\net7.0\triangulo.deps.json
+C:\Users\willd\OneDrive\Área de Trabalho\triangulo\bin\Debug\net7.0\triangulo.runtimeconfig.json
+C:\Users\willd\OneDrive\Área de Trabalho\triangulo\bin\Debug\net7.0\triangulo.dll
+C:\Users\willd\OneDrive\Área de Trabalho\triangulo\bin\Debug\net7.0\triangulo.pdb
+C:\Users\willd\OneDrive\Área de Trabalho\triangulo\obj\Debug\net7.0\triangulo.csproj.AssemblyReference.cache
+C:\Users\willd\OneDrive\Área de Trabalho\triangulo\obj\Debug\net7.0\triangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willd\OneDrive\Área de Trabalho\triangulo\obj\Debug\net7.0\triangulo.AssemblyInfoInputs.cache
+C:\Users\willd\OneDrive\Área de Trabalho\triangulo\obj\Debug\net7.0\triangulo.AssemblyInfo.cs
+C:\Users\willd\OneDrive\Área de Trabalho\triangulo\obj\Debug\net7.0\triangulo.csproj.CoreCompileInputs.cache
+C:\Users\willd\OneDrive\Área de Trabalho\triangulo\obj\Debug\net7.0\triangulo.dll
+C:\Users\willd\OneDrive\Área de Trabalho\triangulo\obj\Debug\net7.0\refint\triangulo.dll
+C:\Users\willd\OneDrive\Área de Trabalho\triangulo\obj\Debug\net7.0\triangulo.pdb
+C:\Users\willd\OneDrive\Área de Trabalho\triangulo\obj\Debug\net7.0\triangulo.genruntimeconfig.cache
+C:\Users\willd\OneDrive\Área de Trabalho\triangulo\obj\Debug\net7.0\ref\triangulo.dll
